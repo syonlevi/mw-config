@@ -247,6 +247,7 @@ $wgConf->settings = array(
 		'tmewiki' => true,
 		'tokyoghoulwiki' => true,
 		'zharkunuwiki' => true,
+		'attackontitanwiki' => true,
 	),
 	'wgEnableRcFiltersBetaFeature' => array(
 		'default' => false,
